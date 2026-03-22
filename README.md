@@ -43,6 +43,8 @@ python3 -m pip install --user -r requirements.txt
 ```bash
 sudo dnf install python3-pyusb
 ```
+## Важно!!!
+Для корректной работы необходимо запускать через sudo или от имени администратора ( на Windows )
 
 ## Проверка DFU
 
